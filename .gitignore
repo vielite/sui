@@ -68,6 +68,12 @@ yarn-debug.log*
 yarn-error.log*
 
 # misc
+tags
+tags.lock
+tags.temp
+*.swp
+*.swo
+.nvimlog
 *.key
 .env
 checkpoints_dir/*
